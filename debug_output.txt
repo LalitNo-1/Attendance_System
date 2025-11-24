@@ -1,0 +1,99 @@
+=== 🚀 AUTOMATED ATTENDANCE SYSTEM ===
+==================================================
+📊 Initializing system...
+Loaded 3 known faces
+✅ System ready! 3 faces loaded
+👥 Known faces: Aayush, Divyansh, Nilimp
+
+📋 Creating new attendance sheet...
+Created new attendance sheet: attendance_records/attendance_Monday_Oct_27_2025.xlsx
+✅ Sheet created: attendance_records/attendance_Monday_Oct_27_2025.xlsx
+
+🎥 Starting automatic attendance system...
+INSTRUCTIONS:
+  👀 Look at the camera
+  ⏱️  System automatically recognizes and marks attendance
+  ✅ You'll be marked present after 3 successful recognitions
+  🚪 Press ESC to finish
+
+✅ Camera found at index 0
+=== AUTOMATIC ATTENDANCE SYSTEM ===
+📸 System is continuously monitoring...
+👀 Look at the camera for 10-15 seconds
+✅ You'll be marked present after 3 votes
+🚪 Press ESC to finish and save
+========================================
+  ⚠ Unknown face (distance: 147.9)
+  ⚠ Unknown face (distance: 144.2)
+  ⚠ Unknown face (distance: 117.6)
+  ⚠ Unknown face (distance: 116.0)
+  ⚠ Unknown face (distance: 108.0)
+  ⚠ Unknown face (distance: 103.2)
+  ⚠ Unknown face (distance: 108.0)
+  ⚠ Unknown face (distance: 109.4)
+  ⚠ Unknown face (distance: 107.9)
+  ⚠ Unknown face (distance: 113.6)
+  ⚠ Unknown face (distance: 114.5)
+  ⚠ Unknown face (distance: 124.5)
+  ⚠ Unknown face (distance: 114.1)
+  ⚠ Unknown face (distance: 110.2)
+  ⚠ Unknown face (distance: 94.7)
+  ⚠ Unknown face (distance: 93.7)
+  ⚠ Unknown face (distance: 124.8)
+  ⚠ Unknown face (distance: 116.5)
+  ⚠ Unknown face (distance: 97.9)
+  ⚠ Unknown face (distance: 119.6)
+  ⚠ Unknown face (distance: 100.1)
+  ⚠ Unknown face (distance: 92.6)
+  ⚠ Unknown face (distance: 90.9)
+  ⚠ Unknown face (distance: 92.3)
+  ⚠ Unknown face (distance: 97.4)
+  ⚠ Unknown face (distance: 95.0)
+  ⚠ Unknown face (distance: 102.7)
+  ⚠ Unknown face (distance: 105.9)
+  ⚠ Unknown face (distance: 126.6)
+  ⚠ Unknown face (distance: 120.1)
+  ⚠ Unknown face (distance: 126.2)
+  ⚠ Unknown face (distance: 113.5)
+  ⚠ Unknown face (distance: 117.3)
+  ⚠ Unknown face (distance: 118.1)
+  ⚠ Unknown face (distance: 115.5)
+  ⚠ Unknown face (distance: 129.6)
+  ⚠ Unknown face (distance: 113.4)
+  ⚠ Unknown face (distance: 111.3)
+  ⚠ Unknown face (distance: 118.4)
+  ⚠ Unknown face (distance: 114.6)
+  ⚠ Unknown face (distance: 116.9)
+  ⚠ Unknown face (distance: 120.7)
+  ⚠ Unknown face (distance: 114.1)
+  ⚠ Unknown face (distance: 119.8)
+  ⚠ Unknown face (distance: 104.2)
+  ⚠ Unknown face (distance: 101.0)
+  ⚠ Unknown face (distance: 94.3)
+  ⚠ Unknown face (distance: 101.2)
+  ⚠ Unknown face (distance: 100.3)
+  ⚠ Unknown face (distance: 99.1)
+  ⚠ Unknown face (distance: 102.8)
+  ⚠ Unknown face (distance: 102.2)
+  ⚠ Unknown face (distance: 101.4)
+  ⚠ Unknown face (distance: 101.9)
+  ⚠ Unknown face (distance: 104.9)
+  ⚠ Unknown face (distance: 103.4)
+  ⚠ Unknown face (distance: 101.3)
+  ⚠ Unknown face (distance: 104.3)
+  ⚠ Unknown face (distance: 103.1)
+  ⚠ Unknown face (distance: 127.7)
+  ⚠ Unknown face (distance: 125.3)
+  ⚠ Unknown face (distance: 117.0)
+  ⚠ Unknown face (distance: 124.6)
+  ⚠ Unknown face (distance: 110.1)
+  ⚠ Unknown face (distance: 116.5)
+
+========================================
+📊 ATTENDANCE SUMMARY
+========================================
+⚠️  No one was marked present
+📄 Check results in: attendance_records/attendance_Monday_Oct_27_2025.xlsx
+
+🎯 Attendance session complete!
+📊 Check your results in: attendance_records/attendance_Monday_Oct_27_2025.xlsx
